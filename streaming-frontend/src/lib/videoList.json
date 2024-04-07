@@ -1,0 +1,40 @@
+{
+  "videos": [
+    {
+      "title": "Eat apple a day",
+      "url": "https://cdn.pixabay.com/video/2024/01/28/198358-907598215_large.mp4",
+      "thumbnail": "https://cdn.pixabay.com/photo/2024/03/13/19/06/ai-generated-8631634_1280.jpg",
+      "ed": "10:40"
+    },
+    {
+      "title": "Eat apple a day",
+      "url": "https://cdn.pixabay.com/video/2023/10/12/184734-873923034_tiny.mp4",
+      "thumbnail": "https://cdn.pixabay.com/photo/2024/03/20/06/18/ai-generated-8644732_1280.jpg",
+      "ed": "10:40"
+    },
+    {
+      "title": "Eat apple a day",
+      "url": "https://cdn.pixabay.com/video/2024/02/11/200157-912127896_tiny.mp4",
+      "thumbnail": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png",
+      "ed": "10:40"
+    },
+    {
+      "title": "Eat apple a day",
+      "url": "https://cdn.pixabay.com/video/2024/02/13/200427-912684284_tiny.mp4",
+      "thumbnail": "https://cdn.pixabay.com/photo/2024/03/13/19/06/ai-generated-8631634_1280.jpg",
+      "ed": "10:40"
+    },
+    {
+      "title": "Eat apple a day",
+      "url": "https://cdn.pixabay.com/video/2024/01/23/197898-905833761_tiny.mp4",
+      "thumbnail": "https://cdn.pixabay.com/photo/2024/03/13/19/06/ai-generated-8631634_1280.jpg",
+      "ed": "10:40"
+    },
+    {
+      "title": "Eat apple a day",
+      "url": "https://cdn.pixabay.com/video/2023/01/04/145320-786403437_tiny.mp4",
+      "thumbnail": "https://cdn.pixabay.com/photo/2024/03/13/19/06/ai-generated-8631634_1280.jpg",
+      "ed": "10:40"
+    }
+  ]
+}
